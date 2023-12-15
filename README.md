@@ -1,4 +1,4 @@
-### Hey there! 👋 I'm Greg, a recent grad from Endicott College and currently an Associate Web Developer at Aceso.
+### Hey there! 👋 I'm Greg, a recent grad from Endicott College and an Associate Web Developer at Aceso.
 
 - 💻 Full-stack enthusiast, passionate about creating impactful solutions. Recently wrapped up my capstone project — 86it, an innovative restaurant menu management tool. Ready to bring this experience to new projects!
 - 🌱 Currently immersing myself in Node.js to enhance my backend skills, always on the lookout for new technologies to explore.
