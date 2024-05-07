@@ -2,4 +2,14 @@
 
 When I'm not writing code, I can be found keeping physically active by hitting the gym 🏋️‍♂️ and riding my bike through the city 🚴, or experimenting with new recipes in the kitchen 🍳. 
 
-💡 I also try to stay ahead by keeping up with the latest in tech. I am currently working on a TypeScript API client for the Musixmatch API and learning how to make games with the Godot engine!
+💡 I also try to stay ahead by keeping up with the latest in tech. I am currently working on a [TypeScript API client for the Musixmatch API](https://github.com/greg-hosking/musixmatch-client) and learning how to make games with the Godot engine!
+
+# 
+
+### NeetCode 150 Progress 🚀
+
+I am currently working my way through the NeetCode 150 to refine my data structures and algorithms skills.
+
+![Progress](https://progress-bar.dev/0/?width=500)
+
+Feel free to check out [this repository](https://github.com/greg-hosking/neetcode-150) to look at and discuss solutions!
