@@ -12,4 +12,4 @@ I am currently working my way through the NeetCode 150 to refine my data structu
 
 ![Progress](https://progress-bar.dev/0/?title=progress&width=500)
 
-Feel free to check out [this repository](https://github.com/greg-hosking/neetcode-150) to look at and discuss solutions!
+Feel free to check out [this repository](https://github.com/greg-hosking/neetcode-150) to view and discuss my solutions!
