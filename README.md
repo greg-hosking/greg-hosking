@@ -10,6 +10,6 @@ When I'm not writing code, I can be found keeping physically active by hitting t
 
 I am currently working my way through the NeetCode 150 to refine my data structures and algorithms skills.
 
-![Progress](https://progress-bar.dev/12/?title=progress&width=500)
+![](https://geps.dev/progress/12) (19/150)
 
-Feel free to check out [this repository](https://github.com/greg-hosking/neetcode-150) to view and discuss my solutions!
+Feel free to check out [this repository](https://github.com/greg-hosking/neetcode-150) to see my solutions.
